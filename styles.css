@@ -112,10 +112,11 @@ button:hover {
 
 a {
     text-decoration: none;
+    color: #CED9FB;
 }
 
 a:visited {
-    color: #CED9FB;
+    color: #FF005C;
 }
 
 a:active {
